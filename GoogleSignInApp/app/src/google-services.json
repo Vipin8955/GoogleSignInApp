@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49754757107",
+    "project_id": "signinapp-8ff0d",
+    "storage_bucket": "signinapp-8ff0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49754757107:android:384b62c6dc5e02aa6f2486",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuybDppGqi2idYfpkLyDLlRyOFObCSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
